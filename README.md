@@ -16,5 +16,6 @@
     };
     
 Tip: Enable Discord Developer Mode (Settings > Advanced) to easily copy User IDs.
+
 ⚠️ Note
 This is a user-side modification. Use at your own risk.
