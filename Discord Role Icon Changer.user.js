@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Discord Role Icon Changer (Reply Fix)
+// @name         Discord Role Icon Changer
 // @namespace    http://tampermonkey.net/
 // @version      1.6
 // @description  Mení role ikon (Oprava pre odpovede/replies)
